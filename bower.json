@@ -1,0 +1,18 @@
+{
+  "name": "boofw/weixin-emoji-js",
+  "homepage": "https://github.com/boofw/weixin-emoji-js",
+  "authors": [
+    "王波 <i@boof.wang>"
+  ],
+  "description": "",
+  "main": "map.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
